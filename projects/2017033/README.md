@@ -32,3 +32,6 @@
 
 ## Συμμετοχικό Υλικό
 ### Twitter Link: https://twitter.com/p17kara
+
+### Repository: https://github.com/p17kara/gr
+### https://github.com/p17kara/gr/blob/gh-pages/_includes/twitter.html
