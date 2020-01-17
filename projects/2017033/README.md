@@ -5,6 +5,8 @@
 ### Ονοματεπώνυμο: Σωκράτης Καραουστάς
 ### ΑΜ: Π2017033
 
+## Τα Asciinema βίντεο τα ξαναέκανα γιατί είχαν διαγραφτεί τα προηγούμενα
+
 ## Εργασία Περιεχομένου
 ### Εργασία 1: Search, download and play (with the terminal) your favorite song of the month from youtube
 
